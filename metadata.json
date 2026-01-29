@@ -1,0 +1,7 @@
+{
+  "name": "AgentLink",
+  "description": "A mobile-first social marketplace where users can discover, share, and hire specialized AI agents for tasks ranging from coding to emotional support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
